@@ -10,7 +10,7 @@ Proyecto de curso práctico de Node.js implementando MongoDB como base de datos.
 ## Instalación
 
 1. Clona el repositorio
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+   git clone git clone https://github.com/owxr11/Nodejs_Course.git
 
 2. Instala las dependencias
    npm install
